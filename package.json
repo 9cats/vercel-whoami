@@ -1,0 +1,13 @@
+{
+  "name": "vercel-whoami",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "deploy": "vercel --prod"
+  },
+  "devDependencies": {
+    "typescript": "^5.3.3",
+    "vercel": "^33.5.3"
+  }
+}
